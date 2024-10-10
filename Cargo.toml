@@ -1,0 +1,31 @@
+[package]
+name = "secret_backend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+argon2 = "0.5.1"  # A library for hashing passwords using the Argon2 algorithm.
+async-trait = "0.1.72"  # Allows you to define async methods in traits.
+chrono = { version = "0.4.26", features = ["serde"] }  # A date and time library for Rust with Serde support for serialization.
+dotenv = "0.15.0"  # Loads environment variables from a `.env` file into the environment.
+jsonwebtoken = "9.2.0"  # A library for creating and verifying JSON Web Tokens (JWT).
+serde = { version = "1.0.183", features = ["derive"] }  # A serialization/deserialization framework for Rust.
+serde_json = "1.0.104"  # A library for working with JSON data in Rust, built on top of Serde.
+lazy_static = "1.4"  # A macro for defining lazily-initialized static variables.
+sqlx = { version = "0.8.1", features = ["runtime-async-std", "postgres", "chrono", "uuid", "migrate"] }  # An async SQL toolkit for Rust, supporting various databases including PostgreSQL.
+uuid = { version = "1.4.1", features = ["serde", "v4"] }  # A library for generating and handling UUIDs, with Serde support.
+validator = { version = "0.16.1", features = ["derive"] }  # A library for data validation in Rust, using attributes for field validation.
+axum = "0.7.5"  # A web framework that makes it easy to build async web applications with Rust.
+axum-extra = { version = "0.9.3", features = ["cookie"] }  # Additional utilities for Axum, including cookie handling.
+tokio = { version = "1.39.3", features = ["full"] }  # An asynchronous runtime for Rust, providing the async programming model.
+tower = "0.5.0"  # A library for building robust networking clients and servers with middleware support.
+time = "0.3.20"  # A library for date and time operations in Rust, complementing Chrono.
+tower-http = { version = "0.5.2", features = ["cors", "trace"] }  # Middleware and utilities for HTTP services built on Tower.
+tracing-subscriber = { version = "0.3.18" }  # A subscriber implementation for the tracing library, useful for structured logging.
+aes = "0.7.5"  # A library for the AES encryption algorithm.
+block-modes = "0.8.1"  # A library for block cipher modes of operation.
+block-padding = "0.2.0"  # A library for padding schemes for block ciphers.
+chacha20 = "0.9.1"  # A library for the ChaCha20 stream cipher.
+blowfish = "0.8"  # A library for the Blowfish encryption algorithm.
+des = "0.7"  # A library for the DES encryption algorithm.
+rand = "0.8"  # A random number generation library for Rust.
