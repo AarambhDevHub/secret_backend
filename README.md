@@ -52,5 +52,9 @@ This project is the backend of the **Secure Secret Management System** built wit
 
 The API will be available at http://localhost:8000.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 ## Support Us
 If you find this project helpful, consider supporting us through donations: [Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub).
