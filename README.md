@@ -1,5 +1,7 @@
 # Secure Secret Management System - Backend
 
+[![Watch the video](https://img.youtube.com/vi/fUBgSMgCRVI/maxresdefault.jpg)](https://youtu.be/fUBgSMgCRVI)
+
 This project is the backend of the **Secure Secret Management System** built with **Rust** using the **Axum** framework. It provides a secure API for managing secrets with user-specific and central databases, multiple encryption methods, versioning, and access control using API keys.
 
 ## Features
