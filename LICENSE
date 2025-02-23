@@ -1,29 +1,21 @@
-# Commercial License Agreement
+MIT License
 
-**This Commercial License Agreement ("Agreement") is made effective as of October 10, 2024, by and between Aarambh Dev Hub ("Licensor") and [Licensee Name] ("Licensee").**
+Copyright (c) 2025 Aarambh Dev Hub
 
-## 1. Grant of License
-Licensor hereby grants Licensee a non-exclusive, non-transferable license to use the backend code ("Software") in accordance with the terms of this Agreement.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 2. License Fee
-The Licensee agrees to pay the Licensor a fee of **$50** for the use of the Software. Payment must be made in full before Licensee can access the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## 3. License Scope
-- The Licensee is permitted to use the Software for [specify allowed uses, e.g., personal projects, commercial projects, etc.].
-- The Licensee shall not modify, adapt, or create derivative works based on the Software without prior written consent from the Licensor.
-- The Licensee shall not distribute, sell, or sublicense the Software to third parties.
-
-## 4. Termination
-This Agreement shall terminate automatically if Licensee fails to comply with any term of this Agreement. Upon termination, Licensee must cease all use of the Software and destroy all copies.
-
-## 5. Disclaimer of Warranty
-The Software is provided "as-is" without warranty of any kind. Licensor shall not be liable for any damages arising from the use of the Software.
-
-## 6. Governing Law
-This Agreement shall be governed by and construed in accordance with the laws of India.
-
-**IN WITNESS WHEREOF, the parties hereto have executed this License Agreement as of the date first above written.**
-
-Licensor: ________________________  
-Licensee: ________________________  
-Date: ____________________________
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
